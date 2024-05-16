@@ -46,9 +46,9 @@ This project is a web application for visualizing time-series data from factory 
 
 1. Navigate to the project root directory and create a React app:
     ```sh
-    npx create-react-app frontend
     cd frontend
-    npm install axios chart.js react-chartjs-2
+    npm install
+    npm start
     ```
 
 2. Create the necessary components (`DeviceList.js` and `DeviceDetails.js`) and set up the main component (`App.js`).
